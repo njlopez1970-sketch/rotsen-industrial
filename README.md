@@ -2,7 +2,7 @@
 
 # ⚙️ ROTSEN
 
-### Ingeniería y Mantenimiento Industrial · Industria 4.0
+### Ingeniería  y Mantenimiento Industrial · Industria 4.0
 
 Sitio web corporativo de alta tecnología: mantenimiento predictivo, monitoreo en tiempo real e inteligencia artificial aplicada a la industria.
 
